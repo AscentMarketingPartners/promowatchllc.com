@@ -1,0 +1,53 @@
+/*
+Theme Name:		 Valassis
+Theme URI:		 http://childtheme-generator.com/
+Description:	 Valassis is a child theme of WP Bootstrap Starter, created by ChildTheme-Generator.com
+Author:			 Signal
+Author URI:		 http://childtheme-generator.com/
+Template:		 wp-bootstrap-starter
+Version:		 2.0.0
+*/
+/* Bundled as core.less Core Files/
+@import url("fonts.less");
+@import url("variables.less");
+@import url("header.less");
+@import url("footer.less");
+@import url("page.less");
+@import url("contact-modal.less");
+@import url("search.less");
+@import url("four-o-four.less");
+@import url("media-queries.less");
+/* End Core files */
+/* Bundled as homepage.less Home Page files /
+@import url("home.less");
+@import url("animations.less");
+/* End Home Page */
+/*
+@import url("product.less");
+@import url("top-level-pages.less");
+@import url("top-overview.less");
+@import url("solutions.less");
+@import url("consumer-graph.less");
+@import url("intent-engine.less");
+
+/* Bundled as resources.less Resources files /
+@import url("latest.less");
+@import url("events.less");
+@import url("infographic.less");
+@import url("media-kit.less");
+@import url("covid.less");
+/* End Resources
+
+@import url("about.less");
+
+@import url("partners.less");
+
+@import url("leadership.less");
+
+@import url("legal.less");
+
+@import url("locations.less");
+
+@import url("careers.less");
+
+@import url("one-page-forms.less"); */
