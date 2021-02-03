@@ -91,7 +91,9 @@ var eio_lazy_vars = {"exactdn_domain":"","skip_autoscale":"0"};
 <link rel="alternate" type="application/json+oembed" href="https://www.valassis.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.valassis.com%2Fmarketing-solutions%2Fpromo-watch%2F" />
 <link rel="alternate" type="text/xml+oembed" href="https://www.valassis.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.valassis.com%2Fmarketing-solutions%2Fpromo-watch%2F&#038;format=xml" />
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.6/dist/jquery.fancybox.min.css" />
-<style type="text/css">.buorg {
+<style type="text/css">
+
+	.buorg {
         position: absolute;
         position: fixed;
         z-index: 111111;
@@ -106,7 +108,7 @@ var eio_lazy_vars = {"exactdn_domain":"","skip_autoscale":"0"};
         animation: 1s ease-out 0s buorgfly
     }
 
-#buorgig, #buorgul, #buorgpermanent {
+	#buorgig, #buorgul, #buorgpermanent {
         color: #fff;
         text-decoration: none;
         cursor: pointer;
@@ -150,14 +152,30 @@ var eio_lazy_vars = {"exactdn_domain":"","skip_autoscale":"0"};
 		display: inline-block;
 	}
 
+	#contact_link	{
+		scroll-margin-top: 120px;
+	}
+
+	@media only screen and (min-width: 1285px) {	
+		.product-page-container .product-page-header .header-visual img {
+	    	display: inline-block;
+	    }
+	}
+
+	@media only screen and (max-width: 1284px) {
+		.product-page-container .product-page-header .header-visual img {
+	    	display: none;
+	    }    
+	}
+
+
 	@media only screen and (max-width: 1023px) {	
 
 	    .product-page-container .protection-container,
 	    .product-page-container .pull-quote-container {
 	    	padding: 64px;
 	    }
-
-	}	    
+	}	
 
 	@media only screen and (max-width: 767px) {
 
@@ -187,6 +205,10 @@ var eio_lazy_vars = {"exactdn_domain":"","skip_autoscale":"0"};
 	    	padding: 32px;
 	    	height: initial;
 	    }
+
+		.product-page-container .product-page-header .header-visual img {
+	    	display: inline-block;
+	    }
 	}
 
     @media only screen and (max-width: 500px) {
@@ -209,6 +231,13 @@ var eio_lazy_vars = {"exactdn_domain":"","skip_autoscale":"0"};
 	    	padding: 1rem;
 	    	width: 100%;
 		}
+
+		.comments-container .title, .footer-form .title {
+			font-size: 30px;
+			line-height: 1.25em;
+		}
+
+
 	}
 
 </style><link rel="pingback" href="https://www.valassis.com/xmlrpc.php">    <style type="text/css">
@@ -246,7 +275,7 @@ var eio_lazy_vars = {"exactdn_domain":"","skip_autoscale":"0"};
 
 			<div class="header-functions">
 				<!-- <a class="client-login" href="https://secure.billtrust.com/valassis/ig/signin">Client Login</a> -->
-				<a class="contact-sales" href="#mc_embed_signup">Contact Us</a>
+				<a class="contact-sales" href="#contact_link">Contact Us</a>
 			</div>										
 
 
@@ -482,7 +511,7 @@ var eio_lazy_vars = {"exactdn_domain":"","skip_autoscale":"0"};
 		
 	</div>
 		<div id="footer-form" class="container-fluid footer-form">
-		<div class="container">
+		<div class="container" id="contact_link">
 			<div class="row">
 				<div class="col-md-6 intro">
 					<div class="title">Consult with Promo Watch</div>
@@ -602,7 +631,15 @@ var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","s
 <script src="//cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.6/dist/jquery.fancybox.min.js"></script>
 <script type="text/javascript">
 $(document).ready( function () {
-    // I only have one form on the page but you can be more specific if need be.
+
+	$("#contact_link").click(function() {
+		var offset_height = $("#mc_embed_signup").offset().top + 20;
+	    $([document.documentElement, document.body]).animate({
+	        scrollTop: offset_height
+	    }, 1500);
+	});	
+
+  	// mail chimp
     var $form = $('.form-container form');
 
     if ( $form.length > 0 ) {
