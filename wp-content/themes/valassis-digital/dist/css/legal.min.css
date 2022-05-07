@@ -1,1 +1,133 @@
-/*! valassis-wp-theme v1.0.0 | (c) 2020 Valassis Design | MIT License | https://www.valassis.com */.page-template-default .content{flex:1}.page-template-default .content blockquote{margin:40px 0}.page-template-default .content blockquote p{font-size:25px;font-weight:300;letter-spacing:1px;line-height:35px}.page-template-default .content ul{margin:0;padding:0;list-style-type:none}.page-template-default .content li,.page-template-default .content p{opacity:.85;color:#121c4f;font-family:din-2014;font-size:18px;line-height:28px;margin-bottom:20px;font-weight:100}.page-template-default .content li a,.page-template-default .content p a{color:#6870f7}.page-template-default .content li a:hover,.page-template-default .content p a:hover{color:#ff4141!important;text-decoration:none}.page-template-default .content h2{font-family:din-2014;letter-spacing:1px;margin-bottom:20px}.page-template-default .content h2,.page-template-default .content h3{color:rgba(3,27,146,.85);font-size:25px;font-weight:300;line-height:35px}.page-template-default .content h3{margin-top:50px;opacity:.85;font-family:proxima-nova}.page-template-default .content h4{color:#031b92;font-family:din-2014;font-size:20px;letter-spacing:.3px;line-height:28px}.page-template-default .sidebar{padding-right:70px}.page-template-default .sidebar ul.ads-links li a{font-weight:400}.page-template-default .sidebar ul.ads-links li a .fas{font-size:12px}.page-template-default .sidebar .questions-concerns{margin-top:70px}.page-template-default .sidebar .questions-concerns h3{margin-bottom:15px}.page-template-default .sidebar .questions-concerns p{color:rgba(3,27,146,.85);font-family:proxima-nova;font-size:15px;font-weight:500;letter-spacing:.32px;line-height:24px}.page-template-default .sidebar h3{color:#3452f4;font-family:din-2014;font-size:20px;font-weight:300;letter-spacing:.3px;line-height:28px;margin-bottom:30px}.page-template-default .sidebar ul{list-style-type:none;padding:0;margin:0}.page-template-default .sidebar ul li{margin-bottom:15px}.page-template-default .sidebar ul li a{color:#031b92;font-family:din-2014;font-size:16px;font-weight:700;line-height:23px}.page-template-default .sidebar ul li a:hover{color:#ff4141!important;text-decoration:none}.page-template-default .sidebar ul li ul{margin-top:15px}.page-template-default .sidebar ul li ul li a{font-weight:400}.page-template-default .svg-img{fill:#121c4f}.page-template-default .svg-img:hover{fill:#ff4141}.page-id-79 .has-bottom-pattern,.page-id-83 .has-bottom-pattern{background:none;padding-bottom:0}.page-id-83 .external-link{padding-right:30px;background:url(//assets.valassis.com/wp-content/uploads/sites/19/2018/07/external-link-icon-white.png) no-repeat 93%}
+/*! valassis-wp-theme v1.0.0 | (c) 2020 Valassis Design | MIT License | https://www.valassis.com */
+.page-template-default .content {
+    flex: 1;
+}
+.page-template-default .content blockquote {
+    margin: 40px 0;
+}
+.page-template-default .content blockquote p {
+    font-size: 25px;
+    font-weight: 300;
+    letter-spacing: 1px;
+    line-height: 35px;
+}
+.page-template-default .content ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+.page-template-default .content li,
+.page-template-default .content p {
+    opacity: 0.85;
+    color: #121c4f;
+    font-family: din-2014;
+    font-size: 18px;
+    line-height: 28px;
+    margin-bottom: 20px;
+    font-weight: 100;
+}
+.page-template-default .content li a,
+.page-template-default .content p a {
+    color: #6870f7;
+}
+.page-template-default .content li a:hover,
+.page-template-default .content p a:hover {
+    color: #ff4141 !important;
+    text-decoration: none;
+}
+.page-template-default .content h2 {
+    font-family: din-2014;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+}
+.page-template-default .content h2,
+.page-template-default .content h3 {
+    color: rgba(3, 27, 146, 0.85);
+    font-size: 25px;
+    font-weight: 300;
+    line-height: 35px;
+}
+.page-template-default .content h3 {
+    margin-top: 50px;
+    opacity: 0.85;
+    font-family: proxima-nova;
+}
+.page-template-default .content h4 {
+    color: #031b92;
+    font-family: din-2014;
+    font-size: 20px;
+    letter-spacing: 0.3px;
+    line-height: 28px;
+}
+.page-template-default .sidebar {
+    padding-right: 70px;
+}
+.page-template-default .sidebar ul.ads-links li a {
+    font-weight: 400;
+}
+.page-template-default .sidebar ul.ads-links li a .fas {
+    font-size: 12px;
+}
+.page-template-default .sidebar .questions-concerns {
+    margin-top: 70px;
+}
+.page-template-default .sidebar .questions-concerns h3 {
+    margin-bottom: 15px;
+}
+.page-template-default .sidebar .questions-concerns p {
+    color: rgba(3, 27, 146, 0.85);
+    font-family: proxima-nova;
+    font-size: 15px;
+    font-weight: 500;
+    letter-spacing: 0.32px;
+    line-height: 24px;
+}
+.page-template-default .sidebar h3 {
+    color: #3452f4;
+    font-family: din-2014;
+    font-size: 20px;
+    font-weight: 300;
+    letter-spacing: 0.3px;
+    line-height: 28px;
+    margin-bottom: 30px;
+}
+.page-template-default .sidebar ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+.page-template-default .sidebar ul li {
+    margin-bottom: 15px;
+}
+.page-template-default .sidebar ul li a {
+    color: #031b92;
+    font-family: din-2014;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 23px;
+}
+.page-template-default .sidebar ul li a:hover {
+    color: #ff4141 !important;
+    text-decoration: none;
+}
+.page-template-default .sidebar ul li ul {
+    margin-top: 15px;
+}
+.page-template-default .sidebar ul li ul li a {
+    font-weight: 400;
+}
+.page-template-default .svg-img {
+    fill: #121c4f;
+}
+.page-template-default .svg-img:hover {
+    fill: #ff4141;
+}
+.page-id-79 .has-bottom-pattern,
+.page-id-83 .has-bottom-pattern {
+    background: none;
+    padding-bottom: 0;
+}
+.page-id-83 .external-link {
+    padding-right: 30px;
+    background: url(/wp-content/uploads/sites/19/2018/07/external-link-icon-white.png) no-repeat 93%;
+}

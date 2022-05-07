@@ -1,1 +1,1036 @@
-/*! valassis-wp-theme v1.0.0 | (c) 2020 Valassis Design | MIT License | https://www.valassis.com */#content ul{list-style:none;margin-left:30px;padding-left:0;margin-bottom:60px}#content li:not(.carousel-indicator){padding-left:1em;text-indent:-1em;font-family:proxima-nova;font-size:18px;color:#121c4f;font-weight:300;letter-spacing:.3px;text-align:left;line-height:26px;margin-bottom:12px}#content li:not(.carousel-indicator):before{font-family:din-2014-narrow;content:"+";padding-right:5px;font-weight:300}p.legal{opacity:.5;font-family:din-2014;font-size:14px;color:#121c4f;text-align:left;line-height:28px;padding-top:10px;margin-top:50px;margin-bottom:50px;border-top:1px solid #c4c6d3}.product-page-container.has-form{padding-bottom:0!important;background:none!important}.product-page-container{flex:1;padding-bottom:125px!important;background:url(//assets.valassis.com/wp-content/uploads/sites/19/2018/07/about-bottom-cta-bg.png) no-repeat;background-position:100% 100%;padding-top:120px}.product-page-container .product-page-header{position:relative;min-height:540px}.product-page-container .product-page-header .header-content{z-index:2;position:relative}.product-page-container .product-page-header .header-content h1{color:#ff4141;font-family:din-2014-narrow;font-size:18px;letter-spacing:3px;line-height:43px;text-transform:uppercase;margin:145px 0 0;padding:0}.product-page-container .product-page-header .header-content h2{color:rgba(18,28,79,.83);font-family:din-2014-narrow;font-size:53px;letter-spacing:8.46px;line-height:70px;text-transform:uppercase;margin:0;padding:0}.product-page-container .product-page-header .header-content h2.alt span{font-size:25px;line-height:35px;letter-spacing:3.85px;display:block}.product-page-container .product-page-header .header-content h3{color:#121c4f;font-family:din-2014;font-size:25px;font-weight:300;letter-spacing:.94px;line-height:35px;margin:15px 0 0;padding:0;max-width:570px}.product-page-container .product-page-header .header-visual{position:absolute;top:0;right:0;z-index:1}.product-page-container .product-page-header .header-visual img{max-height:540px}.product-page-container .stats-container{background:url(//assets.valassis.com/wp-content/uploads/sites/19/2018/07/stats-bg-min.png) no-repeat;background-size:100% 575px;padding-top:110px;padding-bottom:95px}.product-page-container .stats-container .title{font-family:din-2014-narrow;font-size:35px;color:#fff;letter-spacing:1px;text-align:left;line-height:45px;margin-bottom:60px;font-weight:100}.product-page-container .stats-container .stat .icon{padding:0}.product-page-container .stats-container .stat .title{font-family:din-2014-narrow;font-size:18px;color:#ffcf8b;letter-spacing:1.35px;line-height:28px;text-transform:uppercase;margin-bottom:5px}.product-page-container .stats-container .stat .number{color:#ffcf8b;font-family:din-2014;font-size:62px;font-weight:300;letter-spacing:1px;line-height:62px;text-transform:uppercase;margin-bottom:5px}.product-page-container .stats-container .stat .number span{font-size:70px;font-weight:600}.product-page-container .stats-container .stat .text{opacity:.85;font-family:din-2014;font-size:18px;color:#fff;text-align:left;line-height:28px}.product-page-container .pull-quote-container{color:#fff;font-family:din-2014-narrow;font-size:35px;font-weight:200;letter-spacing:1.32px;line-height:50px;text-align:center;background-size:cover;background-repeat:no-repeat;padding:135px 0;text-transform:uppercase;overflow:hidden;position:relative;background-color:#121c4f;height:400px}.product-page-container .pull-quote-container span{color:#ffcc8c}.product-page-container .pull-quote-container video{width:100%;position:absolute;left:0;right:0;bottom:0}.product-page-container .pull-quote-container .overlay{width:100%;height:400px;opacity:.85;background-color:#121c4f;z-index:1;position:absolute;top:0;left:0;right:0;bottom:0;align-items:center;justify-content:center;display:flex}.product-page-container .content-sections-intro{margin-top:100px}.product-page-container .content-sections-intro h2{font-family:din-2014-narrow;font-size:35px;color:#121c4f;letter-spacing:.88px;text-align:left;line-height:50px;margin-bottom:0}.product-page-container .content-sections-intro p{opacity:.85;font-family:proxima-nova;font-size:18px;color:#121c4f;letter-spacing:0;line-height:28px}.product-page-container .content-sections-intro.new p{font-family:din-2014-narrow;font-size:25px;color:#121c4f;letter-spacing:.71px;text-align:left;line-height:45px;margin-bottom:50px}.product-page-container .content-section .container{margin-bottom:80px}.product-page-container .content-section .container p.disclaimer{opacity:.5;font-family:din-2014;font-size:14px;color:#121c4f;text-align:left;line-height:28px;padding-top:10px;margin-top:50px;margin-bottom:50px;border-top:1px solid #c4c6d3}.product-page-container .content-section .container .image-container{padding-left:0;padding-right:0;text-align:center}.product-page-container .content-section .container .image-container .metrics-container{text-align:left}.product-page-container .content-section .container .content{margin-top:auto;margin-bottom:auto}.product-page-container .content-section .container .content .red{color:#ff4141}.product-page-container .content-section .container .content h2{color:#3452f4;font-family:din-2014-narrow;font-size:25px;letter-spacing:.94px;line-height:40px;text-transform:uppercase;margin-bottom:20px;font-weight:400}.product-page-container .content-section .container .content ul{margin:0 0 40px 25px;padding:0}.product-page-container .content-section .container .content li,.product-page-container .content-section .container .content p{color:#121c4f;font-family:din-2014;font-size:25px;font-weight:300;line-height:35px;margin-bottom:40px}.product-page-container .content-section .container .content li{margin-bottom:5px}.product-page-container .content-section .container .content p.intro{color:#121c4f;font-family:din-2014;font-size:25px;font-weight:300;line-height:35px}.product-page-container .content-section .container .content .btn{color:#ed2b2b;font-family:proxima-nova;font-size:15px;font-weight:500;letter-spacing:1.5px;line-height:18px;text-align:center;display:inline-block;border:1px solid #ff4141;border-radius:3px;padding:13px 37px 13px 20px;text-transform:none;margin-top:30px;background-position:88% 50%!important;background:url(//assets.valassis.com/wp-content/uploads/sites/19/2018/06/cta-button-arrow-red.png) no-repeat;background-size:auto;background-size:12px 6px}.product-page-container .content-section .container .content .btn:hover{background:url(//assets.valassis.com/wp-content/uploads/sites/19/2018/06/cta-button-arrow-white.png) no-repeat;background-size:auto;background-size:12px 6px;background-color:#ed2b2b;text-decoration:none;color:#fff}.product-page-container .content-section .container .content .product-page-links{margin-top:40px}.product-page-container .content-section .container .content .product-page-links .product-page-link{display:flex;align-items:center;font-family:din-2014-narrow;font-size:18px;color:#031b92;letter-spacing:3.38px;text-align:left;text-transform:uppercase;margin-bottom:30px}.product-page-container .content-section .container .content .product-page-links .product-page-link img{width:52px;margin-right:25px}.product-page-container .content-section .container .content .product-page-links .product-page-link a{display:block;color:#031b92;background-position:right 50%!important;background:url(//assets.valassis.com/wp-content/uploads/sites/19/2018/06/cta-button-arrow-red.png) no-repeat;background-size:18px 10px;padding-right:35px}.product-page-container .content-section .container .content .product-page-links .product-page-link a:hover{text-decoration:none}.product-page-container .content-section.top-padding{padding-top:100px}.product-page-container .metrics-container{margin-top:80px;margin-bottom:80px}.product-page-container .metrics-container .title{color:#ff4141;font-family:din-2014-narrow;font-size:18px;color:#ff5a52;letter-spacing:3px;text-align:left;line-height:43px;text-transform:uppercase}.product-page-container .metrics-container .content{margin-top:120px}.product-page-container .metrics-container .metric{margin-bottom:30px}.product-page-container .metrics-container .metric img{margin-top:30px}.product-page-container .metrics-container .metric .number{color:#3452f4;font-family:din-2014-narrow;font-size:70px;font-weight:500;letter-spacing:2px}.product-page-container .metrics-container .metric .text{color:#031b92;font-family:din-2014-narrow;font-size:16px;letter-spacing:3.43px;line-height:18px;text-transform:uppercase}.product-page-container .metrics-container h2{color:#3452f4;font-family:din-2014-narrow;font-size:25px;letter-spacing:.94px;line-height:40px;text-transform:uppercase;margin-bottom:20px}.product-page-container .metrics-container h2.red{color:#ff4141}.product-page-container .metrics-container p{color:#121c4f;font-family:din-2014;font-size:25px;font-weight:300;line-height:35px}.product-page-container .difference-container{padding-top:140px;padding-bottom:35px;background:url(//assets.valassis.com/wp-content/uploads/sites/19/2018/07/difference-bg-min.png) no-repeat;background-size:100% 100%}.product-page-container .difference-container .intro p{opacity:.8;color:#fff;font-family:din-2014;font-size:20px;letter-spacing:1.11px;line-height:30px;margin-top:30px;max-width:370px;font-weight:100}.product-page-container .difference-container .intro .title{color:#fff;font-family:din-2014-narrow;font-weight:300;text-transform:uppercase;font-size:50px;line-height:70px}.product-page-container .difference-container .intro .title .line-1{letter-spacing:29.68px}.product-page-container .difference-container .intro .title .line-2{letter-spacing:40.08px}.product-page-container .difference-container .intro .title .line-3{color:#fed189;letter-spacing:17.58px}.product-page-container .difference-container .content{margin-bottom:80px;flex:none}.product-page-container .difference-container .content .title{color:#fed189;font-family:din-2014;font-size:18px;letter-spacing:1.35px;line-height:28px;text-transform:uppercase;margin:10px 0}.product-page-container .difference-container .content .description{opacity:.85;color:#fff;font-family:proxima-nova;font-size:18px;line-height:28px;font-weight:100}.product-page-container .difference-container .stat{margin-bottom:100px}.product-page-container .difference-container .stat .icon{padding:0}.product-page-container .difference-container .stat .title{font-family:din-2014-narrow;font-size:18px;color:#ffcf8b;letter-spacing:1.35px;line-height:28px;text-transform:uppercase;margin-bottom:5px}.product-page-container .difference-container .stat .number{color:#ffcf8b;font-family:din-2014;font-size:62px;font-weight:300;letter-spacing:1px;line-height:62px;text-transform:uppercase;margin-bottom:5px}.product-page-container .difference-container .stat .number span{font-size:70px;font-weight:600}.product-page-container .difference-container .stat .text{opacity:.85;font-family:din-2014;font-size:18px;color:#fff;text-align:left;line-height:28px}.product-page-container .difference-container.promo-watch .heading{font-family:din-2014-narrow;font-weight:200;font-size:30px;color:#fff;letter-spacing:10px;line-height:45px;text-transform:uppercase}.product-page-container .difference-container.promo-watch .heading span{color:#fed189}.product-page-container .how-it-works{padding-top:135px}.product-page-container .how-it-works .intro{margin-bottom:100px}.product-page-container .how-it-works .intro h2{font-family:din-2014-narrow;font-size:30px;color:#0f204e;letter-spacing:3px;text-align:left;line-height:45px;text-transform:uppercase;margin-bottom:10px}.product-page-container .how-it-works .intro p{opacity:.85;font-family:proxima-nova;font-size:20px;color:#0f204e;letter-spacing:0;line-height:32px;max-width:500px}.product-page-container .how-it-works .step{margin-bottom:150px}.product-page-container .how-it-works .step .content{margin-top:65px;padding-left:75px}.product-page-container .how-it-works .step .content .title{font-family:din-2014-narrow;font-size:30px;color:#ff4540;letter-spacing:.86px;text-align:left;line-height:45px;margin-bottom:10px;font-weight:300}.product-page-container .how-it-works .step .content p{opacity:.85;font-family:proxima-nova;font-size:22px;color:#22265f;text-align:left;line-height:34px}.product-page-container .how-it-works .step .content .red{color:#ff4141}.product-page-container .how-it-works .step-1{background:url(//assets.valassis.com/wp-content/uploads/sites/19/2018/07/step1.png) no-repeat}.product-page-container .how-it-works .step-2{background:url(//assets.valassis.com/wp-content/uploads/sites/19/2018/07/step2.png) no-repeat}.product-page-container .how-it-works .step-3{background:url(//assets.valassis.com/wp-content/uploads/sites/19/2018/07/step3.png) no-repeat}.product-page-container .how-it-works .step-4{background:url(//assets.valassis.com/wp-content/uploads/sites/19/2018/07/step4.png) no-repeat}.product-page-container .how-it-works.new{padding-top:90px;background-color:#f8f8f9;padding-bottom:30px}.product-page-container .how-it-works.new .intro{margin-bottom:0!important}.product-page-container .how-it-works.new .title{font-family:din-2014-narrow;font-size:20px;color:#ff4141;letter-spacing:3.33px;line-height:43px;text-transform:uppercase;font-weight:300}.product-page-container .how-it-works.new h2{font-family:din-2014-narrow;font-size:35px;color:#121c4f;letter-spacing:1px;text-align:left;line-height:45px;text-transform:none}.product-page-container .how-it-works.new .steps{padding-left:75px;margin-top:50px}.product-page-container .how-it-works.new .step{margin-bottom:50px}.product-page-container .how-it-works.new .step .content{margin-top:0;padding-left:0}.product-page-container .how-it-works.new .step .content img{margin-bottom:10px}.product-page-container .how-it-works.new .step .content h3{font-family:din-2014;font-size:18px;color:#3452f4;letter-spacing:1.35px;line-height:28px;text-transform:uppercase}.product-page-container .how-it-works.new .step .content p{opacity:.85;font-family:din-2014;font-size:18px;color:#121c4f;text-align:left;line-height:28px}.product-page-container .how-it-works.new .step .content .number{font-family:din-2014;font-weight:200;font-size:50px;color:#3452f4;letter-spacing:0;line-height:70px}.product-page-container .how-it-works.new p.legal{opacity:.5;font-family:din-2014;font-size:14px;color:#121c4f;text-align:left;line-height:28px}.product-page-container .case-study-width{max-width:1200px}.product-page-container .case-study-callout-container{margin-top:150px;margin-bottom:140px;background-size:100%;background-repeat:no-repeat;height:501px}.product-page-container .case-study-callout-container .vert-title{display:none}.product-page-container .case-study-callout-container .case-study-callout{width:469px;height:330px;margin-top:85px;background-color:rgba(249,247,247,.9);position:relative;padding:40px}.product-page-container .case-study-callout-container .case-study-callout .plus-pattern{position:absolute;top:50px;right:-45px}.product-page-container .case-study-callout-container .case-study-callout h2{background:url(//assets.valassis.com/wp-content/uploads/sites/19/2018/07/case-study-title-bg.png) no-repeat;margin:0;padding:0;text-transform:uppercase;color:#3452f4;font-family:din-2014-narrow;font-size:16px;font-weight:500;letter-spacing:3px;line-height:43px}.product-page-container .case-study-callout-container .case-study-callout p{margin:20px 0 0;padding:0;color:#121c4f;font-family:din-2014;font-size:25px;letter-spacing:.18px;line-height:35px}.product-page-container .case-study-callout-container .case-study-callout .btn{display:block;border-radius:3px;background-color:#3452f4;color:#fff;font-family:proxima-nova;font-size:15px;letter-spacing:1px;line-height:18px;padding:11px 18px;text-align:center;max-width:140px;margin-top:35px;position:relative;z-index:1}.product-page-container .case-study-callout-container .case-study-callout .btn :hover{background-color:#102fd8;color:#fff}.product-page-container .audience-container{background:url(//assets.valassis.com/wp-content/uploads/sites/19/2018/07/custom-audience-bg.jpg) #fbfbfb no-repeat bottom;background-size:100% 265px;padding-top:110px;padding-bottom:200px;margin-bottom:100px}.product-page-container .audience-container h2{font-family:din-2014-narrow;font-size:40px;color:#0f204e;letter-spacing:1px;text-align:left;line-height:50px;margin-bottom:0}.product-page-container .audience-container p{opacity:.85;font-family:din-2014-narrow;font-size:18px;color:#0f204e;letter-spacing:0;line-height:28px}.product-page-container .audience-container .image{margin-top:85px}.product-page-container .audience-container .content{margin-top:180px}.product-page-container .audience-container .content .title{font-family:din-2014-narrow;font-size:25px;color:#2462f2;letter-spacing:1.88px;line-height:43px;text-transform:uppercase;margin-bottom:10px}.product-page-container .audience-container .content p{font-family:din-2014;font-size:25px;color:#0f204e;letter-spacing:0;line-height:35px;margin-bottom:110px}.product-page-container .bottom-cta-container{padding-top:150px;color:#121c4f;font-family:din-2014-narrow;font-size:50px;font-weight:100;letter-spacing:11px;line-height:70px;font-weight:200;text-transform:uppercase;-webkit-hyphens:none;-ms-hyphens:none;hyphens:none}.product-page-container .bottom-cta-container .btn{color:#ed2b2b;font-family:proxima-nova;font-size:15px;font-weight:500;letter-spacing:1.5px;line-height:18px;text-align:center;display:inline-block;border:1px solid #ff4141;border-radius:3px;padding:13px 37px 13px 20px;text-transform:none;margin-top:30px;background-position:88% 50%!important;background:url(//assets.valassis.com/wp-content/uploads/sites/19/2018/06/cta-button-arrow-red.png) no-repeat;background-size:12px 6px}.product-page-container .bottom-cta-container .btn:hover{background:url(//assets.valassis.com/wp-content/uploads/sites/19/2018/06/cta-button-arrow-white.png) no-repeat;background-size:12px 6px;background-color:#ed2b2b;text-decoration:none;color:#fff}.product-page-container .protection-container{padding-top:110px;padding-bottom:110px}.product-page-container .protection-container .content h2{font-family:din-2014-narrow;font-size:35px;color:#121c4f;letter-spacing:1px;text-align:left;line-height:45px}.product-page-container .protection-container .content li,.product-page-container .protection-container .content p{font-family:din-2014;font-size:25px;color:#121c4f;letter-spacing:0;line-height:35px;font-weight:200}.product-page-container .protection-container .visual img{max-width:468px}.product-page-container .downloads-container{padding-top:100px;padding-bottom:115px}.product-page-container .downloads-container .title{font-family:din-2014-narrow;font-size:16px;color:#121c4f;letter-spacing:3px;text-align:left;text-transform:uppercase}.product-page-container .downloads-container .view-all-link a{font-size:14px;color:#ff4141!important;letter-spacing:.5px;text-align:left;text-decoration:none}.product-page-container .downloads-container .download{position:relative;padding:50px;background-size:cover;background-repeat:no-repeat;min-height:500px;margin-top:20px}.product-page-container .downloads-container .download .type{font-family:din-2014-narrow;font-size:16px;color:#fff;letter-spacing:3px;text-transform:uppercase}.product-page-container .downloads-container .download .title{font-family:din-2014;font-size:23px;color:#fff;letter-spacing:.16px;line-height:33px;text-transform:none;font-weight:300;top:220px;position:relative}.product-page-container .downloads-container .download .btn{position:absolute;border:1px solid #3452f4;border-radius:4px;color:#fff;font-family:proxima-nova;font-size:14px;font-weight:500;letter-spacing:.54px;line-height:17px;text-align:center;padding:12px 22px;background-color:#3452f4;bottom:40px}.product-page-container .downloads-container .download .btn:hover{background-color:#fff;color:#3452f4!important}.page-id-22 .top-padding{background-size:contain!important}.page-id-26 .product-page-container .metrics-container{margin-top:80px;margin-bottom:-10px}.page-id-26 .product-page-container .top-padding{background-size:contain!important}.page-id-28 .product-page-container .metrics-container{display:none}.page-id-30 .product-page-container .difference-container{margin-top:140px}.page-id-30 .product-page-container .pull-quote-container .col-md-8{max-width:90%;flex:90%}.page-id-30 .product-page-container .pull-quote-container .offset-md-2{margin:auto}@media only screen and (min-width:1077px){.product-page-container .pull-quote-container video{top:-200px}}@media only screen and (max-width:892px){.product-page-container .difference-container{background-size:cover}}@media only screen and (min-width:768px){.hidden-md-up{display:none}.product-page-container .case-study-callout-container{background-size:cover}}@media (min-width:768px) and (max-width:991px){.product-page-container .difference-container{background-size:cover}.product-page-container .difference-container .intro .title{font-size:25px;line-height:40px}.product-page-container .difference-container .intro .title .line-1{letter-spacing:3vw}.product-page-container .difference-container .intro .title .line-2{letter-spacing:3.8vw}.product-page-container .difference-container .intro .title .line-3{letter-spacing:2vw}.product-page-container .case-study-callout-container{background-size:cover}}@media only screen and (max-width:767px){.product-page-container{background-size:contain}.product-page-container .case-study-callout-container{background-size:cover!important;background-position-x:-200px!important}.product-page-container .difference-container{background:#121c4f}.product-page-container .difference-container .intro .title .line-1{letter-spacing:3vw}.product-page-container .difference-container .intro .title .line-2{letter-spacing:5vw}.product-page-container .difference-container .intro .title .line-3{letter-spacing:.9vw}.product-page-container .difference-container .content:first-of-type{margin-top:80px}.product-page-container .product-page-header .header-visual{position:absolute;top:unset;bottom:0!important}.product-page-container .product-page-header .header-visual img{max-height:100%!important}.product-page-container .product-page-header .header-content h1{margin:0}.product-page-container .product-page-header .header-content h2{color:rgba(18,28,79,.83);font-family:din-2014-narrow;font-size:44px;letter-spacing:6px;line-height:57px;text-transform:uppercase;margin:0;padding:0}.product-page-container .pull-quote-container video{width:unset;height:unset;position:absolute;left:0;right:0;bottom:0}.product-page-container .hidden-sm-down{display:none}.product-page-container .image-container{order:-1}.product-page-container .stats-container{background-color:#121c4f;background-size:auto 575px;padding-top:110px;padding-bottom:95px}}
+/*! valassis-wp-theme v1.0.0 | (c) 2020 Valassis Design | MIT License | https://www.valassis.com */
+#content ul {
+    list-style: none;
+    margin-left: 30px;
+    padding-left: 0;
+    margin-bottom: 60px;
+}
+#content li:not(.carousel-indicator) {
+    padding-left: 1em;
+    text-indent: -1em;
+    font-family: proxima-nova;
+    font-size: 18px;
+    color: #121c4f;
+    font-weight: 300;
+    letter-spacing: 0.3px;
+    text-align: left;
+    line-height: 26px;
+    margin-bottom: 12px;
+}
+#content li:not(.carousel-indicator):before {
+    font-family: din-2014-narrow;
+    content: "+";
+    padding-right: 5px;
+    font-weight: 300;
+}
+p.legal {
+    opacity: 0.5;
+    font-family: din-2014;
+    font-size: 14px;
+    color: #121c4f;
+    text-align: left;
+    line-height: 28px;
+    padding-top: 10px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-top: 1px solid #c4c6d3;
+}
+.product-page-container.has-form {
+    padding-bottom: 0 !important;
+    background: none !important;
+}
+.product-page-container {
+    flex: 1;
+    padding-bottom: 125px !important;
+    background: url(/wp-content/uploads/sites/19/2018/07/about-bottom-cta-bg.png) no-repeat;
+    background-position: 100% 100%;
+    padding-top: 120px;
+}
+.product-page-container .product-page-header {
+    position: relative;
+    min-height: 540px;
+}
+.product-page-container .product-page-header .header-content {
+    z-index: 2;
+    position: relative;
+}
+.product-page-container .product-page-header .header-content h1 {
+    color: #ff4141;
+    font-family: din-2014-narrow;
+    font-size: 18px;
+    letter-spacing: 3px;
+    line-height: 43px;
+    text-transform: uppercase;
+    margin: 145px 0 0;
+    padding: 0;
+}
+.product-page-container .product-page-header .header-content h2 {
+    color: rgba(18, 28, 79, 0.83);
+    font-family: din-2014-narrow;
+    font-size: 53px;
+    letter-spacing: 8.46px;
+    line-height: 70px;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0;
+}
+.product-page-container .product-page-header .header-content h2.alt span {
+    font-size: 25px;
+    line-height: 35px;
+    letter-spacing: 3.85px;
+    display: block;
+}
+.product-page-container .product-page-header .header-content h3 {
+    color: #121c4f;
+    font-family: din-2014;
+    font-size: 25px;
+    font-weight: 300;
+    letter-spacing: 0.94px;
+    line-height: 35px;
+    margin: 15px 0 0;
+    padding: 0;
+    max-width: 570px;
+}
+.product-page-container .product-page-header .header-visual {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 1;
+}
+.product-page-container .product-page-header .header-visual img {
+    max-height: 540px;
+}
+.product-page-container .stats-container {
+    background: url(/wp-content/uploads/sites/19/2018/07/stats-bg-min.png) no-repeat;
+    background-size: 100% 575px;
+    padding-top: 110px;
+    padding-bottom: 95px;
+}
+.product-page-container .stats-container .title {
+    font-family: din-2014-narrow;
+    font-size: 35px;
+    color: #fff;
+    letter-spacing: 1px;
+    text-align: left;
+    line-height: 45px;
+    margin-bottom: 60px;
+    font-weight: 100;
+}
+.product-page-container .stats-container .stat .icon {
+    padding: 0;
+}
+.product-page-container .stats-container .stat .title {
+    font-family: din-2014-narrow;
+    font-size: 18px;
+    color: #ffcf8b;
+    letter-spacing: 1.35px;
+    line-height: 28px;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+}
+.product-page-container .stats-container .stat .number {
+    color: #ffcf8b;
+    font-family: din-2014;
+    font-size: 62px;
+    font-weight: 300;
+    letter-spacing: 1px;
+    line-height: 62px;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+}
+.product-page-container .stats-container .stat .number span {
+    font-size: 70px;
+    font-weight: 600;
+}
+.product-page-container .stats-container .stat .text {
+    opacity: 0.85;
+    font-family: din-2014;
+    font-size: 18px;
+    color: #fff;
+    text-align: left;
+    line-height: 28px;
+}
+.product-page-container .pull-quote-container {
+    color: #fff;
+    font-family: din-2014-narrow;
+    font-size: 35px;
+    font-weight: 200;
+    letter-spacing: 1.32px;
+    line-height: 50px;
+    text-align: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 135px 0;
+    text-transform: uppercase;
+    overflow: hidden;
+    position: relative;
+    background-color: #121c4f;
+    height: 400px;
+}
+.product-page-container .pull-quote-container span {
+    color: #ffcc8c;
+}
+.product-page-container .pull-quote-container video {
+    width: 100%;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+.product-page-container .pull-quote-container .overlay {
+    width: 100%;
+    height: 400px;
+    opacity: 0.85;
+    background-color: #121c4f;
+    z-index: 1;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.product-page-container .content-sections-intro {
+    margin-top: 100px;
+}
+.product-page-container .content-sections-intro h2 {
+    font-family: din-2014-narrow;
+    font-size: 35px;
+    color: #121c4f;
+    letter-spacing: 0.88px;
+    text-align: left;
+    line-height: 50px;
+    margin-bottom: 0;
+}
+.product-page-container .content-sections-intro p {
+    opacity: 0.85;
+    font-family: proxima-nova;
+    font-size: 18px;
+    color: #121c4f;
+    letter-spacing: 0;
+    line-height: 28px;
+}
+.product-page-container .content-sections-intro.new p {
+    font-family: din-2014-narrow;
+    font-size: 25px;
+    color: #121c4f;
+    letter-spacing: 0.71px;
+    text-align: left;
+    line-height: 45px;
+    margin-bottom: 50px;
+}
+.product-page-container .content-section .container {
+    margin-bottom: 80px;
+}
+.product-page-container .content-section .container p.disclaimer {
+    opacity: 0.5;
+    font-family: din-2014;
+    font-size: 14px;
+    color: #121c4f;
+    text-align: left;
+    line-height: 28px;
+    padding-top: 10px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-top: 1px solid #c4c6d3;
+}
+.product-page-container .content-section .container .image-container {
+    padding-left: 0;
+    padding-right: 0;
+    text-align: center;
+}
+.product-page-container .content-section .container .image-container .metrics-container {
+    text-align: left;
+}
+.product-page-container .content-section .container .content {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.product-page-container .content-section .container .content .red {
+    color: #ff4141;
+}
+.product-page-container .content-section .container .content h2 {
+    color: #3452f4;
+    font-family: din-2014-narrow;
+    font-size: 25px;
+    letter-spacing: 0.94px;
+    line-height: 40px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    font-weight: 400;
+}
+.product-page-container .content-section .container .content ul {
+    margin: 0 0 40px 25px;
+    padding: 0;
+}
+.product-page-container .content-section .container .content li,
+.product-page-container .content-section .container .content p {
+    color: #121c4f;
+    font-family: din-2014;
+    font-size: 25px;
+    font-weight: 300;
+    line-height: 35px;
+    margin-bottom: 40px;
+}
+.product-page-container .content-section .container .content li {
+    margin-bottom: 5px;
+}
+.product-page-container .content-section .container .content p.intro {
+    color: #121c4f;
+    font-family: din-2014;
+    font-size: 25px;
+    font-weight: 300;
+    line-height: 35px;
+}
+.product-page-container .content-section .container .content .btn {
+    color: #ed2b2b;
+    font-family: proxima-nova;
+    font-size: 15px;
+    font-weight: 500;
+    letter-spacing: 1.5px;
+    line-height: 18px;
+    text-align: center;
+    display: inline-block;
+    border: 1px solid #ff4141;
+    border-radius: 3px;
+    padding: 13px 37px 13px 20px;
+    text-transform: none;
+    margin-top: 30px;
+    background-position: 88% 50% !important;
+    background: url(/wp-content/uploads/sites/19/2018/06/cta-button-arrow-red.png) no-repeat;
+    background-size: auto;
+    background-size: 12px 6px;
+}
+.product-page-container .content-section .container .content .btn:hover {
+    background: url(/wp-content/uploads/sites/19/2018/06/cta-button-arrow-white.png) no-repeat;
+    background-size: auto;
+    background-size: 12px 6px;
+    background-color: #ed2b2b;
+    text-decoration: none;
+    color: #fff;
+}
+.product-page-container .content-section .container .content .product-page-links {
+    margin-top: 40px;
+}
+.product-page-container
+    .content-section
+    .container
+    .content
+    .product-page-links
+    .product-page-link {
+    display: flex;
+    align-items: center;
+    font-family: din-2014-narrow;
+    font-size: 18px;
+    color: #031b92;
+    letter-spacing: 3.38px;
+    text-align: left;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+}
+.product-page-container
+    .content-section
+    .container
+    .content
+    .product-page-links
+    .product-page-link
+    img {
+    width: 52px;
+    margin-right: 25px;
+}
+.product-page-container
+    .content-section
+    .container
+    .content
+    .product-page-links
+    .product-page-link
+    a {
+    display: block;
+    color: #031b92;
+    background-position: right 50% !important;
+    background: url(/wp-content/uploads/sites/19/2018/06/cta-button-arrow-red.png) no-repeat;
+    background-size: 18px 10px;
+    padding-right: 35px;
+}
+.product-page-container
+    .content-section
+    .container
+    .content
+    .product-page-links
+    .product-page-link
+    a:hover {
+    text-decoration: none;
+}
+.product-page-container .content-section.top-padding {
+    padding-top: 100px;
+}
+.product-page-container .metrics-container {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.product-page-container .metrics-container .title {
+    color: #ff4141;
+    font-family: din-2014-narrow;
+    font-size: 18px;
+    color: #ff5a52;
+    letter-spacing: 3px;
+    text-align: left;
+    line-height: 43px;
+    text-transform: uppercase;
+}
+.product-page-container .metrics-container .content {
+    margin-top: 120px;
+}
+.product-page-container .metrics-container .metric {
+    margin-bottom: 30px;
+}
+.product-page-container .metrics-container .metric img {
+    margin-top: 30px;
+}
+.product-page-container .metrics-container .metric .number {
+    color: #3452f4;
+    font-family: din-2014-narrow;
+    font-size: 70px;
+    font-weight: 500;
+    letter-spacing: 2px;
+}
+.product-page-container .metrics-container .metric .text {
+    color: #031b92;
+    font-family: din-2014-narrow;
+    font-size: 16px;
+    letter-spacing: 3.43px;
+    line-height: 18px;
+    text-transform: uppercase;
+}
+.product-page-container .metrics-container h2 {
+    color: #3452f4;
+    font-family: din-2014-narrow;
+    font-size: 25px;
+    letter-spacing: 0.94px;
+    line-height: 40px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+.product-page-container .metrics-container h2.red {
+    color: #ff4141;
+}
+.product-page-container .metrics-container p {
+    color: #121c4f;
+    font-family: din-2014;
+    font-size: 25px;
+    font-weight: 300;
+    line-height: 35px;
+}
+.product-page-container .difference-container {
+    padding-top: 140px;
+    padding-bottom: 35px;
+    background: url(/wp-content/uploads/sites/19/2018/07/difference-bg-min.png) no-repeat;
+    background-size: 100% 100%;
+}
+.product-page-container .difference-container .intro p {
+    opacity: 0.8;
+    color: #fff;
+    font-family: din-2014;
+    font-size: 20px;
+    letter-spacing: 1.11px;
+    line-height: 30px;
+    margin-top: 30px;
+    max-width: 370px;
+    font-weight: 100;
+}
+.product-page-container .difference-container .intro .title {
+    color: #fff;
+    font-family: din-2014-narrow;
+    font-weight: 300;
+    text-transform: uppercase;
+    font-size: 50px;
+    line-height: 70px;
+}
+.product-page-container .difference-container .intro .title .line-1 {
+    letter-spacing: 29.68px;
+}
+.product-page-container .difference-container .intro .title .line-2 {
+    letter-spacing: 40.08px;
+}
+.product-page-container .difference-container .intro .title .line-3 {
+    color: #fed189;
+    letter-spacing: 17.58px;
+}
+.product-page-container .difference-container .content {
+    margin-bottom: 80px;
+    flex: none;
+}
+.product-page-container .difference-container .content .title {
+    color: #fed189;
+    font-family: din-2014;
+    font-size: 18px;
+    letter-spacing: 1.35px;
+    line-height: 28px;
+    text-transform: uppercase;
+    margin: 10px 0;
+}
+.product-page-container .difference-container .content .description {
+    opacity: 0.85;
+    color: #fff;
+    font-family: proxima-nova;
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 100;
+}
+.product-page-container .difference-container .stat {
+    margin-bottom: 100px;
+}
+.product-page-container .difference-container .stat .icon {
+    padding: 0;
+}
+.product-page-container .difference-container .stat .title {
+    font-family: din-2014-narrow;
+    font-size: 18px;
+    color: #ffcf8b;
+    letter-spacing: 1.35px;
+    line-height: 28px;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+}
+.product-page-container .difference-container .stat .number {
+    color: #ffcf8b;
+    font-family: din-2014;
+    font-size: 62px;
+    font-weight: 300;
+    letter-spacing: 1px;
+    line-height: 62px;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+}
+.product-page-container .difference-container .stat .number span {
+    font-size: 70px;
+    font-weight: 600;
+}
+.product-page-container .difference-container .stat .text {
+    opacity: 0.85;
+    font-family: din-2014;
+    font-size: 18px;
+    color: #fff;
+    text-align: left;
+    line-height: 28px;
+}
+.product-page-container .difference-container.promo-watch .heading {
+    font-family: din-2014-narrow;
+    font-weight: 200;
+    font-size: 30px;
+    color: #fff;
+    letter-spacing: 10px;
+    line-height: 45px;
+    text-transform: uppercase;
+}
+.product-page-container .difference-container.promo-watch .heading span {
+    color: #fed189;
+}
+.product-page-container .how-it-works {
+    padding-top: 135px;
+}
+.product-page-container .how-it-works .intro {
+    margin-bottom: 100px;
+}
+.product-page-container .how-it-works .intro h2 {
+    font-family: din-2014-narrow;
+    font-size: 30px;
+    color: #0f204e;
+    letter-spacing: 3px;
+    text-align: left;
+    line-height: 45px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+.product-page-container .how-it-works .intro p {
+    opacity: 0.85;
+    font-family: proxima-nova;
+    font-size: 20px;
+    color: #0f204e;
+    letter-spacing: 0;
+    line-height: 32px;
+    max-width: 500px;
+}
+.product-page-container .how-it-works .step {
+    margin-bottom: 150px;
+}
+.product-page-container .how-it-works .step .content {
+    margin-top: 65px;
+    padding-left: 75px;
+}
+.product-page-container .how-it-works .step .content .title {
+    font-family: din-2014-narrow;
+    font-size: 30px;
+    color: #ff4540;
+    letter-spacing: 0.86px;
+    text-align: left;
+    line-height: 45px;
+    margin-bottom: 10px;
+    font-weight: 300;
+}
+.product-page-container .how-it-works .step .content p {
+    opacity: 0.85;
+    font-family: proxima-nova;
+    font-size: 22px;
+    color: #22265f;
+    text-align: left;
+    line-height: 34px;
+}
+.product-page-container .how-it-works .step .content .red {
+    color: #ff4141;
+}
+.product-page-container .how-it-works .step-1 {
+    background: url(/wp-content/uploads/sites/19/2018/07/step1.png) no-repeat;
+}
+.product-page-container .how-it-works .step-2 {
+    background: url(/wp-content/uploads/sites/19/2018/07/step2.png) no-repeat;
+}
+.product-page-container .how-it-works .step-3 {
+    background: url(/wp-content/uploads/sites/19/2018/07/step3.png) no-repeat;
+}
+.product-page-container .how-it-works .step-4 {
+    background: url(/wp-content/uploads/sites/19/2018/07/step4.png) no-repeat;
+}
+.product-page-container .how-it-works.new {
+    padding-top: 90px;
+    background-color: #f8f8f9;
+    padding-bottom: 30px;
+}
+.product-page-container .how-it-works.new .intro {
+    margin-bottom: 0 !important;
+}
+.product-page-container .how-it-works.new .title {
+    font-family: din-2014-narrow;
+    font-size: 20px;
+    color: #ff4141;
+    letter-spacing: 3.33px;
+    line-height: 43px;
+    text-transform: uppercase;
+    font-weight: 300;
+}
+.product-page-container .how-it-works.new h2 {
+    font-family: din-2014-narrow;
+    font-size: 35px;
+    color: #121c4f;
+    letter-spacing: 1px;
+    text-align: left;
+    line-height: 45px;
+    text-transform: none;
+}
+.product-page-container .how-it-works.new .steps {
+    padding-left: 75px;
+    margin-top: 50px;
+}
+.product-page-container .how-it-works.new .step {
+    margin-bottom: 50px;
+}
+.product-page-container .how-it-works.new .step .content {
+    margin-top: 0;
+    padding-left: 0;
+}
+.product-page-container .how-it-works.new .step .content img {
+    margin-bottom: 10px;
+}
+.product-page-container .how-it-works.new .step .content h3 {
+    font-family: din-2014;
+    font-size: 18px;
+    color: #3452f4;
+    letter-spacing: 1.35px;
+    line-height: 28px;
+    text-transform: uppercase;
+}
+.product-page-container .how-it-works.new .step .content p {
+    opacity: 0.85;
+    font-family: din-2014;
+    font-size: 18px;
+    color: #121c4f;
+    text-align: left;
+    line-height: 28px;
+}
+.product-page-container .how-it-works.new .step .content .number {
+    font-family: din-2014;
+    font-weight: 200;
+    font-size: 50px;
+    color: #3452f4;
+    letter-spacing: 0;
+    line-height: 70px;
+}
+.product-page-container .how-it-works.new p.legal {
+    opacity: 0.5;
+    font-family: din-2014;
+    font-size: 14px;
+    color: #121c4f;
+    text-align: left;
+    line-height: 28px;
+}
+.product-page-container .case-study-width {
+    max-width: 1200px;
+}
+.product-page-container .case-study-callout-container {
+    margin-top: 150px;
+    margin-bottom: 140px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 501px;
+}
+.product-page-container .case-study-callout-container .vert-title {
+    display: none;
+}
+.product-page-container .case-study-callout-container .case-study-callout {
+    width: 469px;
+    height: 330px;
+    margin-top: 85px;
+    background-color: rgba(249, 247, 247, 0.9);
+    position: relative;
+    padding: 40px;
+}
+.product-page-container .case-study-callout-container .case-study-callout .plus-pattern {
+    position: absolute;
+    top: 50px;
+    right: -45px;
+}
+.product-page-container .case-study-callout-container .case-study-callout h2 {
+    background: url(/wp-content/uploads/sites/19/2018/07/case-study-title-bg.png) no-repeat;
+    margin: 0;
+    padding: 0;
+    text-transform: uppercase;
+    color: #3452f4;
+    font-family: din-2014-narrow;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 3px;
+    line-height: 43px;
+}
+.product-page-container .case-study-callout-container .case-study-callout p {
+    margin: 20px 0 0;
+    padding: 0;
+    color: #121c4f;
+    font-family: din-2014;
+    font-size: 25px;
+    letter-spacing: 0.18px;
+    line-height: 35px;
+}
+.product-page-container .case-study-callout-container .case-study-callout .btn {
+    display: block;
+    border-radius: 3px;
+    background-color: #3452f4;
+    color: #fff;
+    font-family: proxima-nova;
+    font-size: 15px;
+    letter-spacing: 1px;
+    line-height: 18px;
+    padding: 11px 18px;
+    text-align: center;
+    max-width: 140px;
+    margin-top: 35px;
+    position: relative;
+    z-index: 1;
+}
+.product-page-container .case-study-callout-container .case-study-callout .btn :hover {
+    background-color: #102fd8;
+    color: #fff;
+}
+.product-page-container .audience-container {
+    background: url(/wp-content/uploads/sites/19/2018/07/custom-audience-bg.jpg) #fbfbfb no-repeat
+        bottom;
+    background-size: 100% 265px;
+    padding-top: 110px;
+    padding-bottom: 200px;
+    margin-bottom: 100px;
+}
+.product-page-container .audience-container h2 {
+    font-family: din-2014-narrow;
+    font-size: 40px;
+    color: #0f204e;
+    letter-spacing: 1px;
+    text-align: left;
+    line-height: 50px;
+    margin-bottom: 0;
+}
+.product-page-container .audience-container p {
+    opacity: 0.85;
+    font-family: din-2014-narrow;
+    font-size: 18px;
+    color: #0f204e;
+    letter-spacing: 0;
+    line-height: 28px;
+}
+.product-page-container .audience-container .image {
+    margin-top: 85px;
+}
+.product-page-container .audience-container .content {
+    margin-top: 180px;
+}
+.product-page-container .audience-container .content .title {
+    font-family: din-2014-narrow;
+    font-size: 25px;
+    color: #2462f2;
+    letter-spacing: 1.88px;
+    line-height: 43px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+.product-page-container .audience-container .content p {
+    font-family: din-2014;
+    font-size: 25px;
+    color: #0f204e;
+    letter-spacing: 0;
+    line-height: 35px;
+    margin-bottom: 110px;
+}
+.product-page-container .bottom-cta-container {
+    padding-top: 150px;
+    color: #121c4f;
+    font-family: din-2014-narrow;
+    font-size: 50px;
+    font-weight: 100;
+    letter-spacing: 11px;
+    line-height: 70px;
+    font-weight: 200;
+    text-transform: uppercase;
+    -webkit-hyphens: none;
+    -ms-hyphens: none;
+    hyphens: none;
+}
+.product-page-container .bottom-cta-container .btn {
+    color: #ed2b2b;
+    font-family: proxima-nova;
+    font-size: 15px;
+    font-weight: 500;
+    letter-spacing: 1.5px;
+    line-height: 18px;
+    text-align: center;
+    display: inline-block;
+    border: 1px solid #ff4141;
+    border-radius: 3px;
+    padding: 13px 37px 13px 20px;
+    text-transform: none;
+    margin-top: 30px;
+    background-position: 88% 50% !important;
+    background: url(/wp-content/uploads/sites/19/2018/06/cta-button-arrow-red.png) no-repeat;
+    background-size: 12px 6px;
+}
+.product-page-container .bottom-cta-container .btn:hover {
+    background: url(/wp-content/uploads/sites/19/2018/06/cta-button-arrow-white.png) no-repeat;
+    background-size: 12px 6px;
+    background-color: #ed2b2b;
+    text-decoration: none;
+    color: #fff;
+}
+.product-page-container .protection-container {
+    padding-top: 110px;
+    padding-bottom: 110px;
+}
+.product-page-container .protection-container .content h2 {
+    font-family: din-2014-narrow;
+    font-size: 35px;
+    color: #121c4f;
+    letter-spacing: 1px;
+    text-align: left;
+    line-height: 45px;
+}
+.product-page-container .protection-container .content li,
+.product-page-container .protection-container .content p {
+    font-family: din-2014;
+    font-size: 25px;
+    color: #121c4f;
+    letter-spacing: 0;
+    line-height: 35px;
+    font-weight: 200;
+}
+.product-page-container .protection-container .visual img {
+    max-width: 468px;
+}
+.product-page-container .downloads-container {
+    padding-top: 100px;
+    padding-bottom: 115px;
+}
+.product-page-container .downloads-container .title {
+    font-family: din-2014-narrow;
+    font-size: 16px;
+    color: #121c4f;
+    letter-spacing: 3px;
+    text-align: left;
+    text-transform: uppercase;
+}
+.product-page-container .downloads-container .view-all-link a {
+    font-size: 14px;
+    color: #ff4141 !important;
+    letter-spacing: 0.5px;
+    text-align: left;
+    text-decoration: none;
+}
+.product-page-container .downloads-container .download {
+    position: relative;
+    padding: 50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 500px;
+    margin-top: 20px;
+}
+.product-page-container .downloads-container .download .type {
+    font-family: din-2014-narrow;
+    font-size: 16px;
+    color: #fff;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+.product-page-container .downloads-container .download .title {
+    font-family: din-2014;
+    font-size: 23px;
+    color: #fff;
+    letter-spacing: 0.16px;
+    line-height: 33px;
+    text-transform: none;
+    font-weight: 300;
+    top: 220px;
+    position: relative;
+}
+.product-page-container .downloads-container .download .btn {
+    position: absolute;
+    border: 1px solid #3452f4;
+    border-radius: 4px;
+    color: #fff;
+    font-family: proxima-nova;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 0.54px;
+    line-height: 17px;
+    text-align: center;
+    padding: 12px 22px;
+    background-color: #3452f4;
+    bottom: 40px;
+}
+.product-page-container .downloads-container .download .btn:hover {
+    background-color: #fff;
+    color: #3452f4 !important;
+}
+.page-id-22 .top-padding {
+    background-size: contain !important;
+}
+.page-id-26 .product-page-container .metrics-container {
+    margin-top: 80px;
+    margin-bottom: -10px;
+}
+.page-id-26 .product-page-container .top-padding {
+    background-size: contain !important;
+}
+.page-id-28 .product-page-container .metrics-container {
+    display: none;
+}
+.page-id-30 .product-page-container .difference-container {
+    margin-top: 140px;
+}
+.page-id-30 .product-page-container .pull-quote-container .col-md-8 {
+    max-width: 90%;
+    flex: 90%;
+}
+.page-id-30 .product-page-container .pull-quote-container .offset-md-2 {
+    margin: auto;
+}
+@media only screen and (min-width: 1077px) {
+    .product-page-container .pull-quote-container video {
+        top: -200px;
+    }
+}
+@media only screen and (max-width: 892px) {
+    .product-page-container .difference-container {
+        background-size: cover;
+    }
+}
+@media only screen and (min-width: 768px) {
+    .hidden-md-up {
+        display: none;
+    }
+    .product-page-container .case-study-callout-container {
+        background-size: cover;
+    }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+    .product-page-container .difference-container {
+        background-size: cover;
+    }
+    .product-page-container .difference-container .intro .title {
+        font-size: 25px;
+        line-height: 40px;
+    }
+    .product-page-container .difference-container .intro .title .line-1 {
+        letter-spacing: 3vw;
+    }
+    .product-page-container .difference-container .intro .title .line-2 {
+        letter-spacing: 3.8vw;
+    }
+    .product-page-container .difference-container .intro .title .line-3 {
+        letter-spacing: 2vw;
+    }
+    .product-page-container .case-study-callout-container {
+        background-size: cover;
+    }
+}
+@media only screen and (max-width: 767px) {
+    .product-page-container {
+        background-size: contain;
+    }
+    .product-page-container .case-study-callout-container {
+        background-size: cover !important;
+        background-position-x: -200px !important;
+    }
+    .product-page-container .difference-container {
+        background: #121c4f;
+    }
+    .product-page-container .difference-container .intro .title .line-1 {
+        letter-spacing: 3vw;
+    }
+    .product-page-container .difference-container .intro .title .line-2 {
+        letter-spacing: 5vw;
+    }
+    .product-page-container .difference-container .intro .title .line-3 {
+        letter-spacing: 0.9vw;
+    }
+    .product-page-container .difference-container .content:first-of-type {
+        margin-top: 80px;
+    }
+    .product-page-container .product-page-header .header-visual {
+        position: absolute;
+        top: unset;
+        bottom: 0 !important;
+    }
+    .product-page-container .product-page-header .header-visual img {
+        max-height: 100% !important;
+    }
+    .product-page-container .product-page-header .header-content h1 {
+        margin: 0;
+    }
+    .product-page-container .product-page-header .header-content h2 {
+        color: rgba(18, 28, 79, 0.83);
+        font-family: din-2014-narrow;
+        font-size: 44px;
+        letter-spacing: 6px;
+        line-height: 57px;
+        text-transform: uppercase;
+        margin: 0;
+        padding: 0;
+    }
+    .product-page-container .pull-quote-container video {
+        width: unset;
+        height: unset;
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 0;
+    }
+    .product-page-container .hidden-sm-down {
+        display: none;
+    }
+    .product-page-container .image-container {
+        order: -1;
+    }
+    .product-page-container .stats-container {
+        background-color: #121c4f;
+        background-size: auto 575px;
+        padding-top: 110px;
+        padding-bottom: 95px;
+    }
+}
