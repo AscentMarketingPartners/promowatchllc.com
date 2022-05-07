@@ -159,9 +159,9 @@ var eio_lazy_vars = {"exactdn_domain":"","skip_autoscale":"0"};
 	}
 
 	@media only screen and (max-width: 1284px) {
-		.product-page-container .product-page-header .header-visual img {
+		/* .product-page-container .product-page-header .header-visual img {
 	    	display: none;
-	    }
+	    } */
 	}
 
 
@@ -171,6 +171,14 @@ var eio_lazy_vars = {"exactdn_domain":"","skip_autoscale":"0"};
 	    .product-page-container .pull-quote-container {
 	    	padding: 64px;
 	    }
+	}
+
+	@media only screen and (min-width: 768px) {
+        .product-page-container .product-page-header .header-visual {
+            bottom: 0;
+            position: absolute;
+            top: initial;
+        }
 	}
 
 	@media only screen and (max-width: 767px) {
