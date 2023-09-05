@@ -332,7 +332,7 @@ header#masthead {
 }
 #masthead .navbar .header-functions .contact-sales {
     color: #ff4141;
-    font-family: proxima-nova;
+    font-family: din-2014;
     font-size: 13px;
     font-weight: 500;
     letter-spacing: 0.5px;
@@ -458,7 +458,7 @@ div.mega-menu#solutions .data-solutions-menu {
     display: inline-block;
 }
 div.mega-menu .nav-link {
-    font-family: proxima-nova;
+    font-family: din-2014;
     padding: 0 !important;
     color: #031b92 !important;
     font-size: 14px;
@@ -543,7 +543,7 @@ div.consumer-graph p {
     font-size: 13px;
     letter-spacing: 0.2px;
     line-height: 19px;
-    font-family: proxima-nova;
+    font-family: din-2014;
 }
 div.mega-menu .menu-heading .nav-link,
 div.mega-menu .widget-title {
@@ -644,7 +644,7 @@ div.mega-menu .nav-link {
     }
     #main-nav .mobile-contact .contact-sales {
         color: #fff;
-        font-family: proxima-nova;
+        font-family: din-2014;
         font-size: 16px;
         font-weight: 500;
         letter-spacing: 1.37px;
@@ -666,7 +666,7 @@ div.mega-menu .nav-link {
         padding: 0 25px;
     }
     #main-nav .mobile-search a {
-        font-family: proxima-nova;
+        font-family: din-2014;
         opacity: 0.7;
         color: #121c4f;
         letter-spacing: 0.5px;
@@ -838,7 +838,7 @@ body.page-template-tpl-contact .footer-form {
 }
 .comments-container .gform_confirmation_message p,
 .footer-form .gform_confirmation_message p {
-    font-family: proxima-nova;
+    font-family: din-2014;
     font-size: 18px;
     color: #121c4f;
     letter-spacing: 0;
@@ -865,7 +865,7 @@ body.page-template-tpl-contact .footer-form {
 .footer-form .signup-form .gform_wrapper .gfield_label {
     visibility: hidden;
     color: #3452f4;
-    font-family: proxima-nova;
+    font-family: din-2014;
     font-size: 13px;
     line-height: 28px;
     margin-bottom: 0;
@@ -896,7 +896,7 @@ body.page-template-tpl-contact .footer-form {
 .footer-form .signup-form .gform_wrapper ::-webkit-input-placeholder {
     opacity: 0.65;
     color: #121c4f;
-    font-family: proxima-nova;
+    font-family: din-2014;
     font-size: 15px;
     line-height: 28px;
 }
@@ -910,7 +910,7 @@ body.page-template-tpl-contact .footer-form {
 .footer-form .signup-form .gform_wrapper ::-moz-placeholder {
     opacity: 0.65;
     color: #121c4f;
-    font-family: proxima-nova;
+    font-family: din-2014;
     font-size: 15px;
     line-height: 28px;
 }
@@ -920,7 +920,7 @@ body.page-template-tpl-contact .footer-form {
 .footer-form .signup-form .gform_wrapper :-ms-input-placeholder {
     opacity: 0.65;
     color: #121c4f;
-    font-family: proxima-nova;
+    font-family: din-2014;
     font-size: 15px;
     line-height: 28px;
 }
@@ -930,7 +930,7 @@ body.page-template-tpl-contact .footer-form {
 .footer-form .signup-form .gform_wrapper input:-moz-placeholder {
     opacity: 0.65;
     color: #121c4f;
-    font-family: proxima-nova;
+    font-family: din-2014;
     font-size: 15px;
     line-height: 28px;
 }
@@ -939,7 +939,7 @@ body.page-template-tpl-contact .footer-form {
 .footer-form .form-container .gform_wrapper .gform_button,
 .footer-form .signup-form .gform_wrapper .gform_button {
     color: #ed2b2b;
-    font-family: proxima-nova;
+    font-family: din-2014;
     font-size: 15px;
     font-weight: 500;
     letter-spacing: 1.5px;
@@ -994,7 +994,7 @@ footer .container {
     padding-right: 0;
 }
 #footer-widget .nav-link {
-    font-family: proxima-nova !important;
+    font-family: din-2014 !important;
     padding: 0;
     color: #b8bbca;
     font-size: 11px;
@@ -1128,7 +1128,7 @@ footer .container {
     margin-left: 0;
 }
 #footer-widget .nav-link {
-    font-family: proxima-nova;
+    font-family: din-2014;
     font-size: 12px;
     letter-spacing: 0.5px;
     line-height: 17px;
@@ -1351,7 +1351,7 @@ h2 {
     border: 1px solid #3452f4;
     background-color: #3452f4;
     color: #fff;
-    font-family: proxima-nova;
+    font-family: din-2014;
     font-size: 15px;
     letter-spacing: 1px;
     line-height: 18px;
@@ -1443,7 +1443,7 @@ h2 {
 .contact-modal .modal-content .form-container .gfield_label {
     visibility: hidden;
     color: #3452f4;
-    font-family: proxima-nova;
+    font-family: din-2014;
     font-size: 13px;
     line-height: 28px;
     margin-bottom: 0;
@@ -1461,7 +1461,7 @@ h2 {
 .contact-modal .modal-content .form-container ::-webkit-input-placeholder {
     opacity: 0.65;
     color: #121c4f;
-    font-family: proxima-nova;
+    font-family: din-2014;
     font-size: 15px;
     line-height: 28px;
 }
@@ -1469,21 +1469,21 @@ h2 {
 .contact-modal .modal-content .form-container ::-moz-placeholder {
     opacity: 0.65;
     color: #121c4f;
-    font-family: proxima-nova;
+    font-family: din-2014;
     font-size: 15px;
     line-height: 28px;
 }
 .contact-modal .modal-content .form-container :-ms-input-placeholder {
     opacity: 0.65;
     color: #121c4f;
-    font-family: proxima-nova;
+    font-family: din-2014;
     font-size: 15px;
     line-height: 28px;
 }
 .contact-modal .modal-content .form-container input:-moz-placeholder {
     opacity: 0.65;
     color: #121c4f;
-    font-family: proxima-nova;
+    font-family: din-2014;
     font-size: 15px;
     line-height: 28px;
 }
@@ -1497,14 +1497,14 @@ h2 {
 }
 .contact-modal .modal-content .form-container p {
     color: #121c4f;
-    font-family: proxima-nova;
+    font-family: din-2014;
     font-size: 18px;
     line-height: 28px;
 }
 .contact-modal .modal-content .form-container .gform_button {
     background-color: #fff;
     color: #ed2b2b;
-    font-family: proxima-nova;
+    font-family: din-2014;
     font-size: 13px;
     font-weight: 500;
     letter-spacing: 0.5px;
@@ -1937,7 +1937,7 @@ body.search #masthead .navbar-nav > li > a {
     }
 }
 .search-results-container .search-results .result a .excerpt {
-    font-family: proxima-nova, sans-serif;
+    font-family: din-2014, sans-serif;
     font-size: 16px;
     line-height: 20pt;
     letter-spacing: 0.4px;
@@ -1975,7 +1975,7 @@ body.search #masthead .navbar-nav > li > a {
 }
 .four-o-four-container .content-area .content p {
     margin-top: 50px;
-    font-family: proxima-nova;
+    font-family: din-2014;
     font-size: 18px;
     color: #121c4f;
     letter-spacing: 0;
