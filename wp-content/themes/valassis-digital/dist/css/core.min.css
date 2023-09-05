@@ -179,42 +179,7 @@
     font-weight: 700;
     font-style: normal;
 }
-@font-face {
-    font-family: proxima-nova;
-    src: url(/fonts/ProximaNova-Light-webfont.woff) format("woff");
-    font-weight: 300;
-    font-style: normal;
-}
-@font-face {
-    font-family: proxima-nova;
-    src: url(/fonts/ProximaNova-Reg-webfont.woff) format("woff");
-    font-weight: 400;
-    font-style: normal;
-}
-@font-face {
-    font-family: proxima-nova;
-    src: url(/fonts/ProximaNova-Sbold-webfont.woff) format("woff");
-    font-weight: 500;
-    font-style: normal;
-}
-@font-face {
-    font-family: proxima-nova;
-    src: url(/fonts/ProximaNova-Bold-webfont.woff) format("woff");
-    font-weight: 700;
-    font-style: normal;
-}
-@font-face {
-    font-family: proxima-nova;
-    src: url(/fonts/ProximaNova-Xbold-webfont.woff) format("woff");
-    font-weight: 700;
-    font-style: normal;
-}
-@font-face {
-    font-family: proxima-nova;
-    src: url(/fonts/ProximaNova-Black-webfont.woff) format("woff");
-    font-weight: 900;
-    font-style: normal;
-}
+
 @font-face {
     font-family: fontello;
     src: url(/fonts/fontello.eot?61339683=);
