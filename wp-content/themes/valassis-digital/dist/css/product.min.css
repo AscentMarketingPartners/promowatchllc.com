@@ -8,7 +8,7 @@
 #content li:not(.carousel-indicator) {
     padding-left: 1em;
     text-indent: -1em;
-    font-family: proxima-nova;
+    font-family: din-2014;
     font-size: 18px;
     color: #121c4f;
     font-weight: 300;
@@ -206,7 +206,7 @@ p.legal {
 }
 .product-page-container .content-sections-intro p {
     opacity: 0.85;
-    font-family: proxima-nova;
+    font-family: din-2014;
     font-size: 18px;
     color: #121c4f;
     letter-spacing: 0;
@@ -286,7 +286,7 @@ p.legal {
 }
 .product-page-container .content-section .container .content .btn {
     color: #ed2b2b;
-    font-family: proxima-nova;
+    font-family: din-2014;
     font-size: 15px;
     font-weight: 500;
     letter-spacing: 1.5px;
@@ -474,7 +474,7 @@ p.legal {
 .product-page-container .difference-container .content .description {
     opacity: 0.85;
     color: #fff;
-    font-family: proxima-nova;
+    font-family: din-2014;
     font-size: 18px;
     line-height: 28px;
     font-weight: 100;
@@ -546,7 +546,7 @@ p.legal {
 }
 .product-page-container .how-it-works .intro p {
     opacity: 0.85;
-    font-family: proxima-nova;
+    font-family: din-2014;
     font-size: 20px;
     color: #0f204e;
     letter-spacing: 0;
@@ -572,7 +572,7 @@ p.legal {
 }
 .product-page-container .how-it-works .step .content p {
     opacity: 0.85;
-    font-family: proxima-nova;
+    font-family: din-2014;
     font-size: 22px;
     color: #22265f;
     text-align: left;
@@ -717,7 +717,7 @@ p.legal {
     border-radius: 3px;
     background-color: #3452f4;
     color: #fff;
-    font-family: proxima-nova;
+    font-family: din-2014;
     font-size: 15px;
     letter-spacing: 1px;
     line-height: 18px;
@@ -796,7 +796,7 @@ p.legal {
 }
 .product-page-container .bottom-cta-container .btn {
     color: #ed2b2b;
-    font-family: proxima-nova;
+    font-family: din-2014;
     font-size: 15px;
     font-weight: 500;
     letter-spacing: 1.5px;
@@ -893,7 +893,7 @@ p.legal {
     border: 1px solid #3452f4;
     border-radius: 4px;
     color: #fff;
-    font-family: proxima-nova;
+    font-family: din-2014;
     font-size: 14px;
     font-weight: 500;
     letter-spacing: 0.54px;
