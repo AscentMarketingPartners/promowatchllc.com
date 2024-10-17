@@ -532,27 +532,27 @@ Let us safeguard your chance promotion and reduce the risks for your brand. Cont
 <li id='field_10_1'  class='gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible' >
 <div class="mc-field-group ginput_container ginput_container_text">
 	<label for="mce-FNAME" class="gfield_label">First Name <span class="asterisk">*</span></label>
-	<input type="text" value="" name="FNAME" class="required" id="mce-FNAME"  placeholder='First Name *' required>
+	<input type="text" value="" name="fname" class="required" id="mce-FNAME"  placeholder='First Name *' required>
 </div>
 </li>
 <li id='field_10_2'  class='gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible' >
 <div class="mc-field-group input_container ginput_container_text">
 	<label for="mce-LNAME" class="gfield_label">Last Name <span class="asterisk">*</span></label>
-	<input type="text" value="" name="LNAME" class="required" id="mce-LNAME" placeholder="Last Name *" required>
+	<input type="text" value="" name="lname" class="required" id="mce-LNAME" placeholder="Last Name *" required>
 </div>
 </li>
 <li id='field_10_4'  class='gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible' >
 <div class="mc-field-group">
 	<label for="mce-EMAIL" class="gfield_label">Email Address  <span class="asterisk">*</span>
 </label>
-	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email Address *" required>
+	<input type="email" value="" name="email" class="required email" id="mce-EMAIL" placeholder="Email Address *" required>
 </div>
 </li>
 <li id='field_10_4'  class='gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible' >
 <div class="mc-field-group">
 	<label for="mce-MMERGE3" class="gfield_label">Message  <span class="asterisk">*</span>
 </label>
-	<input type="text" value="" name="MMERGE3" class="required" id="mce-MMERGE3" placeholder="Your Message" required="">
+	<input type="text" value="" name="message" class="required" id="mce-MMERGE3" placeholder="Your Message" required="">
 </div>
 </li>
 	<div id="mce-responses" class="clear">
@@ -666,7 +666,7 @@ function validate_form($form) {
 function register($form) {
     $.ajax({
         type: $form.attr('method'),
-        url: 'https://promowatchllc.us7.list-manage.com/subscribe/post-json?u=1869ed8d941ff21e2627bba91&amp;id=1bf9b871ac',
+        url: ' https://endpoint.promowatchrewards.com/contact_form.php',
         data: $form.serialize(),
         cache       : false,
         dataType    : 'jsonp',
