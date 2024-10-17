@@ -633,25 +633,27 @@ var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","s
 
 <script src="//cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.6/dist/jquery.fancybox.min.js"></script>
 <script type="text/javascript">
-$(document).ready( function () {
 
-	$("#contact_link").click(function() {
+
+$(document).ready(function () {
+	$("#contact_link").click(function () {
 		var offset_height = $("#mc_embed_signup").offset().top + 20;
-	    $([document.documentElement, document.body]).animate({
-	        scrollTop: offset_height
-	    }, 1500);
+		$([document.documentElement, document.body]).animate({
+			scrollTop: offset_height
+		}, 1500);
 	});
 
-  	// mail chimp
-    var $form = $('.form-container form');
+	// Form handling
+	var $form = $('#mc-embedded-subscribe-form');
 
-    if ( $form.length > 0 ) {
-        $('#mc-embedded-subscribe').bind('click', function ( event ) {
-            if ( event ) event.preventDefault();
-            // validate_input() is a validation function I wrote, you'll have to substitute this with your own.
-            if ( validate_form($form) ) { register($form); }
-        });
-    }
+	if ($form.length > 0) {
+		$('#mc-embedded-subscribe').bind('click', function (event) {
+			if (event) event.preventDefault();
+			if (validate_form($form)) {
+				register($form);
+			}
+		});
+	}
 });
 
 // validate form
@@ -660,35 +662,36 @@ function validate_form($form) {
 		$form[0].reportValidity();
 		return false;
 	}
-    return true;
+	return true;
 }
 
 function register($form) {
-    $.ajax({
-        type: $form.attr('method'),
-        url: 'https://endpoint.promowatchrewards.com/contact_form.php',
-        data: $form.serialize(),
-        cache       : false,
-        dataType    : 'jsonp',
-        jsonp		: 'c',
-        contentType: "application/json; charset=utf-8",
-        error       : function(err) { alert("Could not connect to the registration server. Please try again later."); },
-        success     : function(data) {
-            if (data.result != "success") {
-            	alert('Sorry there was an error. Please try again later.');
-            	console.log(data.msg);
-                // Something went wrong, do something to notify the user. maybe alert(data.msg);
-            } else {
-				$.fancybox.open({ // FancyBox 3
-			        src: '#message-sent',
-			        modal: true
-			    });
-        	  	$form[0].reset();
-                // It worked, carry on...
-            }
-        }
-    });
+	$.ajax({
+		type: $form.attr('method'),
+		url: 'https://endpoint.promowatchrewards.com/contact_form.php',
+		data: $form.serialize(),
+		cache: false,
+		dataType: 'json', // changed to json
+		contentType: "application/x-www-form-urlencoded; charset=UTF-8", // standard form encoding
+		error: function (err) {
+			console.error("Error details:", err); // Log error details to the console
+			alert("Could not connect to the registration server. Please try again later.");
+		},
+		success: function (data) {
+			if (data.result !== "success") {
+				alert('Sorry, there was an error. Please try again later.');
+				console.log(data.msg);
+			} else {
+				$.fancybox.open({
+					src: '#message-sent',
+					modal: true
+				});
+				$form[0].reset();
+			}
+		}
+	});
 }
+
 </script>
 
 </body>
